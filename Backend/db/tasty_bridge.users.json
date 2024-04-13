@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "65d67922f58df35cfeeacdc1"
+  },
+  "uid": "Etz7RPOulVfo0Aic0vABU9hLGjM2",
+  "email": "brand@gmail.com",
+  "name": "Brand Manager",
+  "phone": "2120000000000",
+  "roles": [
+    "account_owner"
+  ],
+  "language": "en",
+  "avatar": "https://firebasestorage.googleapis.com/v0/b/taste-bridge.appspot.com/o/public%2Fzyro-image.png?alt=media&token=7b4f43c5-4245-4bb8-9d7a-87cb0ce67f5e",
+  "updatedAt": {
+    "$date": "2024-02-21T22:28:50.187Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-02-21T22:28:50.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d76b7a7bac1c64a1c4ed51"
+  },
+  "uid": "1mGJA7p14yVbM6nN51JgwDv2aSf2",
+  "email": "kitchen@gmail.com",
+  "name": "Kitchen Manager",
+  "phone": "2120000000000",
+  "roles": [
+    "account_owner"
+  ],
+  "language": "en",
+  "avatar": "https://firebasestorage.googleapis.com/v0/b/taste-bridge.appspot.com/o/public%2Fhome-picture.jpg?alt=media&token=ad7e9bfa-3c77-4220-a26f-1064d8e59a88",
+  "updatedAt": {
+    "$date": "2024-02-22T15:42:50.279Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-02-22T15:42:50.198Z"
+  },
+  "__v": 0
+}]

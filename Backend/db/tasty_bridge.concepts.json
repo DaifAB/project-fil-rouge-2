@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "65d726e9c6a15c6e21e47293"
+  },
+  "logo": "https://firebasestorage.googleapis.com/v0/b/taste-bridge.appspot.com/o/public%2Fzyro-image.png?alt=media&token=0cbedde1-a832-4101-b104-fb37fddcea33",
+  "cover": "https://firebasestorage.googleapis.com/v0/b/taste-bridge.appspot.com/o/public%2Fimg.png?alt=media&token=1a8eb437-9573-4bfe-b48d-71abc71e8923",
+  "name": "My brand",
+  "description": "My Brand desc",
+  "slogan": "My Brand slogan",
+  "countries": [
+    {
+      "$oid": "6406f20496f03233811b2908"
+    },
+    {
+      "$oid": "6406f20496f03233811b28bd"
+    }
+  ],
+  "commission": 10,
+  "averageOrderValue": 10,
+  "averageOrdersNumber": 10,
+  "cogs": 10,
+  "foodTypes": [
+    "american",
+    "arabic",
+    "asian"
+  ],
+  "websiteUrl": "www.test.com",
+  "instagramUrl": "www.test.com",
+  "facebookUrl": "www.test.com",
+  "twitterUrl": "www.test.com",
+  "account": {
+    "$oid": "65d67922f58df35cfeeacdc3"
+  },
+  "updatedAt": {
+    "$date": "2024-02-22T14:25:46.283Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-02-22T10:50:17.286Z"
+  },
+  "__v": 0,
+  "equipments": [
+    {
+      "$oid": "63b54285397f42d7729e09b1"
+    },
+    {
+      "$oid": "63b54285397f42d7729e09b2"
+    }
+  ]
+}]

@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "65d89fb6ddb89be5b90643d4"
+  },
+  "name": "My kitchen ",
+  "description": "My kitchen desc",
+  "equipments": [
+    {
+      "$oid": "63b54285397f42d7729e09b2"
+    },
+    {
+      "$oid": "63b54285397f42d7729e09b3"
+    },
+    {
+      "$oid": "63b54285397f42d7729e09b5"
+    }
+  ],
+  "legalNumber": "11111",
+  "type": "restaurant",
+  "foodTypes": [
+    "french",
+    "friedChicken"
+  ],
+  "cookingLimitations": [
+    "gluten",
+    "halal",
+    "dairyFree"
+  ],
+  "cover": "https://firebasestorage.googleapis.com/v0/b/taste-bridge.appspot.com/o/public%2Fimage.jpg?alt=media&token=862b6b67-e904-4481-bac1-034a77f64c4f",
+  "logo": "https://firebasestorage.googleapis.com/v0/b/taste-bridge.appspot.com/o/public%2F1698186283906.png?alt=media&token=082ce890-7d63-4b37-bad1-8a6921f9b6af",
+  "address": {
+    "address": "test address",
+    "zipCode": "46000",
+    "city": {
+      "$oid": "63b54285397f42d7729e06f0"
+    },
+    "geoLocation": {
+      "lat": 32.30676008278003,
+      "long": -9.23759731473848,
+      "_id": {
+        "$oid": "65d8be7d82d71214739ead0d"
+      }
+    },
+    "_id": {
+      "$oid": "65d8be7d82d71214739ead0c"
+    }
+  },
+  "account": {
+    "$oid": "65d76b7a7bac1c64a1c4ed53"
+  },
+  "concepts": [],
+  "updatedAt": {
+    "$date": "2024-02-23T15:49:17.275Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-02-23T13:37:58.083Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,3987 @@
+[{
+  "_id": {
+    "$oid": "6406f20496f03233811b287f"
+  },
+  "code": "AU",
+  "name": "Australia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.688Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2883"
+  },
+  "code": "BH",
+  "name": "Bahrain",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.689Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2899"
+  },
+  "code": "CA",
+  "name": "Canada",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.690Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b289f"
+  },
+  "code": "CN",
+  "name": "China",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.691Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28ac"
+  },
+  "code": "CY",
+  "name": "Cyprus",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.692Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28ad"
+  },
+  "code": "CZ",
+  "name": "Czech Republic",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.692Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28b2"
+  },
+  "code": "EC",
+  "name": "Ecuador",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.693Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28b8"
+  },
+  "code": "ET",
+  "name": "Ethiopia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.694Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28e3"
+  },
+  "code": "JO",
+  "name": "Jordan",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.697Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.641Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28e5"
+  },
+  "code": "KE",
+  "name": "Kenya",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.697Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.641Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28e8"
+  },
+  "code": "KR",
+  "name": "Korea, Republic of",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.697Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.642Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2904"
+  },
+  "code": "MC",
+  "name": "Monaco",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.698Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.654Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2906"
+  },
+  "code": "ME",
+  "name": "Montenegro",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.698Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.654Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b290b"
+  },
+  "code": "NA",
+  "name": "Namibia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.699Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2915"
+  },
+  "code": "NF",
+  "name": "Norfolk Island",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.700Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b291f"
+  },
+  "code": "PE",
+  "name": "Peru",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.701Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2922"
+  },
+  "code": "PL",
+  "name": "Poland",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.701Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.658Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b294a"
+  },
+  "code": "SY",
+  "name": "Syrian Arab Republic",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.703Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2954"
+  },
+  "code": "TN",
+  "name": "Tunisia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.705Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2957"
+  },
+  "code": "TC",
+  "name": "Turks and Caicos Islands",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.706Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b296a"
+  },
+  "code": "ZW",
+  "name": "Zimbabwe",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.707Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2876"
+  },
+  "code": "AS",
+  "name": "American Samoa",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.687Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b287c"
+  },
+  "code": "AR",
+  "name": "Argentina",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.688Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2882"
+  },
+  "code": "BS",
+  "name": "Bahamas",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.689Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.610Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b289e"
+  },
+  "code": "CL",
+  "name": "Chile",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.691Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28ae"
+  },
+  "code": "DK",
+  "name": "Denmark",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.693Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28af"
+  },
+  "code": "DJ",
+  "name": "Djibouti",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.693Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28c5"
+  },
+  "code": "GH",
+  "name": "Ghana",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.695Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28cd"
+  },
+  "code": "GG",
+  "name": "Guernsey",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.695Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2917"
+  },
+  "code": "NO",
+  "name": "Norway",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.700Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2926"
+  },
+  "code": "RE",
+  "name": "Réunion",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.701Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b294d"
+  },
+  "code": "TZ",
+  "name": "Tanzania, United Republic of",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.704Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2964"
+  },
+  "code": "VG",
+  "name": "Virgin Islands, British",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.707Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b287b"
+  },
+  "code": "AG",
+  "name": "Antigua and Barbuda",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.688Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2891"
+  },
+  "code": "BR",
+  "name": "Brazil",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.690Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28c9"
+  },
+  "code": "GD",
+  "name": "Grenada",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.695Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.627Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28d2"
+  },
+  "code": "HM",
+  "name": "Heard Island and McDonald Islands",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.696Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28dc"
+  },
+  "code": "IE",
+  "name": "Ireland",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.696Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.632Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28ee"
+  },
+  "code": "LS",
+  "name": "Lesotho",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.697Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2908"
+  },
+  "code": "MA",
+  "name": "Morocco",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.699Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.654Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2909"
+  },
+  "code": "MZ",
+  "name": "Mozambique",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.699Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.654Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b290e"
+  },
+  "code": "NL",
+  "name": "Netherlands",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.699Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b291c"
+  },
+  "code": "PA",
+  "name": "Panama",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.701Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2929"
+  },
+  "code": "RW",
+  "name": "Rwanda",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.701Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2930"
+  },
+  "code": "VC",
+  "name": "Saint Vincent and the Grenadines",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.702Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.662Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2932"
+  },
+  "code": "SM",
+  "name": "San Marino",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.702Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.663Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b294c"
+  },
+  "code": "TJ",
+  "name": "Tajikistan",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.704Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28aa"
+  },
+  "code": "CU",
+  "name": "Cuba",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.692Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28be"
+  },
+  "code": "GF",
+  "name": "French Guiana",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.694Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28cf"
+  },
+  "code": "GW",
+  "name": "Guinea-Bissau",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.695Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28d3"
+  },
+  "code": "VA",
+  "name": "Holy See (Vatican City State)",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.696Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.630Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28d6"
+  },
+  "code": "HU",
+  "name": "Hungary",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.696Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28ec"
+  },
+  "code": "LV",
+  "name": "Latvia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.697Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28fc"
+  },
+  "code": "MH",
+  "name": "Marshall Islands",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.698Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2939"
+  },
+  "code": "SG",
+  "name": "Singapore",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.702Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2948"
+  },
+  "code": "SE",
+  "name": "Sweden",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.703Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b295e"
+  },
+  "code": "UM",
+  "name": "United States Minor Outlying Islands",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.706Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28b3"
+  },
+  "code": "EG",
+  "name": "Egypt",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.693Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28ba"
+  },
+  "code": "FO",
+  "name": "Faroe Islands",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.694Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28c4"
+  },
+  "code": "DE",
+  "name": "Germany",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.695Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28de"
+  },
+  "code": "IL",
+  "name": "Israel",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.696Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28ed"
+  },
+  "code": "LB",
+  "name": "Lebanon",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.697Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2901"
+  },
+  "code": "MX",
+  "name": "Mexico",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.698Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2912"
+  },
+  "code": "NE",
+  "name": "Niger",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.700Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2919"
+  },
+  "code": "PK",
+  "name": "Pakistan",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.700Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2924"
+  },
+  "code": "PR",
+  "name": "Puerto Rico",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.701Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b293a"
+  },
+  "code": "SX",
+  "name": "Sint Maarten (Dutch part)",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.703Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2946"
+  },
+  "code": "SJ",
+  "name": "Svalbard and Jan Mayen",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.703Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b294f"
+  },
+  "code": "TL",
+  "name": "Timor-Leste",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.704Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2952"
+  },
+  "code": "TO",
+  "name": "Tonga",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.705Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2873"
+  },
+  "code": "AX",
+  "name": "Åland Islands",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.687Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2898"
+  },
+  "code": "CM",
+  "name": "Cameroon",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.690Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28bc"
+  },
+  "code": "FI",
+  "name": "Finland",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.694Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28d4"
+  },
+  "code": "HN",
+  "name": "Honduras",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.696Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28da"
+  },
+  "code": "IR",
+  "name": "Iran, Islamic Republic of",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.696Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.632Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28df"
+  },
+  "code": "IT",
+  "name": "Italy",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.696Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28e0"
+  },
+  "code": "JM",
+  "name": "Jamaica",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.696Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28ef"
+  },
+  "code": "LR",
+  "name": "Liberia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.697Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28f2"
+  },
+  "code": "LT",
+  "name": "Lithuania",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.697Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28f9"
+  },
+  "code": "MV",
+  "name": "Maldives",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.698Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.652Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b294b"
+  },
+  "code": "TW",
+  "name": "Taiwan, Province of China",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.703Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2966"
+  },
+  "code": "WF",
+  "name": "Wallis and Futuna",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.707Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2872"
+  },
+  "code": "AF",
+  "name": "Afghanistan",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.687Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.604Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2888"
+  },
+  "code": "BZ",
+  "name": "Belize",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.689Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2895"
+  },
+  "code": "BF",
+  "name": "Burkina Faso",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.690Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b289c"
+  },
+  "code": "CF",
+  "name": "Central African Republic",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.691Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28c3"
+  },
+  "code": "GE",
+  "name": "Georgia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.694Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28d7"
+  },
+  "code": "IS",
+  "name": "Iceland",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.696Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28db"
+  },
+  "code": "IQ",
+  "name": "Iraq",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.696Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.632Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28f5"
+  },
+  "code": "MK",
+  "name": "Macedonia, the Former Yugoslav Republic of",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.698Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.652Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28fb"
+  },
+  "code": "MT",
+  "name": "Malta",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.698Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2918"
+  },
+  "code": "OM",
+  "name": "Oman",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.700Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b292f"
+  },
+  "code": "PM",
+  "name": "Saint Pierre and Miquelon",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.702Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.661Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2931"
+  },
+  "code": "WS",
+  "name": "Samoa",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.702Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.663Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2933"
+  },
+  "code": "ST",
+  "name": "Sao Tome and Principe",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.702Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.664Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b293b"
+  },
+  "code": "SK",
+  "name": "Slovakia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.703Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2951"
+  },
+  "code": "TK",
+  "name": "Tokelau",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.705Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b287d"
+  },
+  "code": "AM",
+  "name": "Armenia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.688Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2894"
+  },
+  "code": "BG",
+  "name": "Bulgaria",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.690Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28a5"
+  },
+  "code": "CD",
+  "name": "Congo, the Democratic Republic of the",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.692Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28c2"
+  },
+  "code": "GM",
+  "name": "Gambia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.694Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28c7"
+  },
+  "code": "GR",
+  "name": "Greece",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.695Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28e1"
+  },
+  "code": "JP",
+  "name": "Japan",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.696Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.640Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28e4"
+  },
+  "code": "KZ",
+  "name": "Kazakhstan",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.697Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.641Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28f0"
+  },
+  "code": "LY",
+  "name": "Libya",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.697Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28f4"
+  },
+  "code": "MO",
+  "name": "Macao",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.697Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.652Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b290f"
+  },
+  "code": "NC",
+  "name": "New Caledonia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.699Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b291b"
+  },
+  "code": "PS",
+  "name": "Palestine, State of",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.700Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2923"
+  },
+  "code": "PT",
+  "name": "Portugal",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.701Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.658Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2941"
+  },
+  "code": "SS",
+  "name": "South Sudan",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.703Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b295a"
+  },
+  "code": "UA",
+  "name": "Ukraine",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.706Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b288b"
+  },
+  "code": "BT",
+  "name": "Bhutan",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.689Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b289a"
+  },
+  "code": "CV",
+  "name": "Cape Verde",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.690Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28a3"
+  },
+  "code": "KM",
+  "name": "Comoros",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.692Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28b5"
+  },
+  "code": "GQ",
+  "name": "Equatorial Guinea",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.693Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28b9"
+  },
+  "code": "FK",
+  "name": "Falkland Islands (Malvinas)",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.694Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28bf"
+  },
+  "code": "PF",
+  "name": "French Polynesia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.694Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28d8"
+  },
+  "code": "IN",
+  "name": "India",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.696Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.632Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28e7"
+  },
+  "code": "KP",
+  "name": "Korea, Democratic People's Republic of",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.697Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.642Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28ea"
+  },
+  "code": "KG",
+  "name": "Kyrgyzstan",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.697Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.647Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28f3"
+  },
+  "code": "LU",
+  "name": "Luxembourg",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.697Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2902"
+  },
+  "code": "FM",
+  "name": "Micronesia, Federated States of",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.698Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.654Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b291a"
+  },
+  "code": "PW",
+  "name": "Palau",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.700Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b291e"
+  },
+  "code": "PY",
+  "name": "Paraguay",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.701Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b292c"
+  },
+  "code": "KN",
+  "name": "Saint Kitts and Nevis",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.702Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b293d"
+  },
+  "code": "SB",
+  "name": "Solomon Islands",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.703Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b293e"
+  },
+  "code": "SO",
+  "name": "Somalia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.703Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2943"
+  },
+  "code": "LK",
+  "name": "Sri Lanka",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.703Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2949"
+  },
+  "code": "CH",
+  "name": "Switzerland",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.703Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2878"
+  },
+  "code": "AO",
+  "name": "Angola",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.688Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.607Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2884"
+  },
+  "code": "BD",
+  "name": "Bangladesh",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.689Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.611Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2887"
+  },
+  "code": "BE",
+  "name": "Belgium",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.689Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2896"
+  },
+  "code": "BI",
+  "name": "Burundi",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.690Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28a9"
+  },
+  "code": "HR",
+  "name": "Croatia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.692Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28c8"
+  },
+  "code": "GL",
+  "name": "Greenland",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.695Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.627Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28cc"
+  },
+  "code": "GT",
+  "name": "Guatemala",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.695Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28d9"
+  },
+  "code": "ID",
+  "name": "Indonesia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.696Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.632Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28e2"
+  },
+  "code": "JE",
+  "name": "Jersey",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.697Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.641Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28fd"
+  },
+  "code": "MQ",
+  "name": "Martinique",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.698Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2905"
+  },
+  "code": "MN",
+  "name": "Mongolia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.698Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.654Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2907"
+  },
+  "code": "MS",
+  "name": "Montserrat",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.699Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.654Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2910"
+  },
+  "code": "NZ",
+  "name": "New Zealand",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.700Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2913"
+  },
+  "code": "NG",
+  "name": "Nigeria",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.700Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b291d"
+  },
+  "code": "PG",
+  "name": "Papua New Guinea",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.701Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.657Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2927"
+  },
+  "code": "RO",
+  "name": "Romania",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.701Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2937"
+  },
+  "code": "SC",
+  "name": "Seychelles",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.702Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.665Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b294e"
+  },
+  "code": "TH",
+  "name": "Thailand",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.704Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2961"
+  },
+  "code": "VU",
+  "name": "Vanuatu",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.706Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2963"
+  },
+  "code": "VN",
+  "name": "Viet Nam",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.706Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2968"
+  },
+  "code": "YE",
+  "name": "Yemen",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.707Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2877"
+  },
+  "code": "AD",
+  "name": "Andorra",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.688Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.606Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2886"
+  },
+  "code": "BY",
+  "name": "Belarus",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.689Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b288a"
+  },
+  "code": "BM",
+  "name": "Bermuda",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.689Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2897"
+  },
+  "code": "KH",
+  "name": "Cambodia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.690Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28ab"
+  },
+  "code": "CW",
+  "name": "Curaçao",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.692Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28b4"
+  },
+  "code": "SV",
+  "name": "El Salvador",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.693Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28c6"
+  },
+  "code": "GI",
+  "name": "Gibraltar",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.695Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28cb"
+  },
+  "code": "GU",
+  "name": "Guam",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.695Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.627Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28ce"
+  },
+  "code": "GN",
+  "name": "Guinea",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.695Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.628Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28d1"
+  },
+  "code": "HT",
+  "name": "Haiti",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.696Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28eb"
+  },
+  "code": "LA",
+  "name": "Lao People's Democratic Republic",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.697Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.648Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28ff"
+  },
+  "code": "MU",
+  "name": "Mauritius",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.698Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2942"
+  },
+  "code": "ES",
+  "name": "Spain",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.703Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.667Z"
+  },
+  "__v": 0,
+  "vat": 10
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2956"
+  },
+  "code": "TM",
+  "name": "Turkmenistan",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.705Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2958"
+  },
+  "code": "TV",
+  "name": "Tuvalu",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.706Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b295d"
+  },
+  "code": "US",
+  "name": "United States",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.706Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2960"
+  },
+  "code": "UZ",
+  "name": "Uzbekistan",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.706Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2965"
+  },
+  "code": "VI",
+  "name": "Virgin Islands, U.S.",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.707Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2881"
+  },
+  "code": "AZ",
+  "name": "Azerbaijan",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.689Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28a0"
+  },
+  "code": "CX",
+  "name": "Christmas Island",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.691Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28b0"
+  },
+  "code": "DM",
+  "name": "Dominica",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.693Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28b1"
+  },
+  "code": "DO",
+  "name": "Dominican Republic",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.693Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28ca"
+  },
+  "code": "GP",
+  "name": "Guadeloupe",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.695Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.627Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28d5"
+  },
+  "code": "HK",
+  "name": "Hong Kong",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.696Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.631Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28f1"
+  },
+  "code": "LI",
+  "name": "Liechtenstein",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.697Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2925"
+  },
+  "code": "QA",
+  "name": "Qatar",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.701Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b292d"
+  },
+  "code": "LC",
+  "name": "Saint Lucia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.702Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2945"
+  },
+  "code": "SR",
+  "name": "Suriname",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.703Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2879"
+  },
+  "code": "AI",
+  "name": "Anguilla",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.688Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.607Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b287a"
+  },
+  "code": "AQ",
+  "name": "Antarctica",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.688Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.608Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2880"
+  },
+  "code": "AT",
+  "name": "Austria",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.689Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2885"
+  },
+  "code": "BB",
+  "name": "Barbados",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.689Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.612Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b288d"
+  },
+  "code": "BQ",
+  "name": "Bonaire, Sint Eustatius and Saba",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.690Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b288e"
+  },
+  "code": "BA",
+  "name": "Bosnia and Herzegovina",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.690Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28a8"
+  },
+  "code": "CI",
+  "name": "Côte d'Ivoire",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.692Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28dd"
+  },
+  "code": "IM",
+  "name": "Isle of Man",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.696Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.639Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28e6"
+  },
+  "code": "KI",
+  "name": "Kiribati",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.697Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.642Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2914"
+  },
+  "code": "NU",
+  "name": "Niue",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.700Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2916"
+  },
+  "code": "MP",
+  "name": "Northern Mariana Islands",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.700Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2934"
+  },
+  "code": "SA",
+  "name": "Saudi Arabia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.702Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.664Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b293f"
+  },
+  "code": "ZA",
+  "name": "South Africa",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.703Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2944"
+  },
+  "code": "SD",
+  "name": "Sudan",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.703Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2959"
+  },
+  "code": "UG",
+  "name": "Uganda",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.706Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b295c"
+  },
+  "code": "GB",
+  "name": "United Kingdom",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.706Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2962"
+  },
+  "code": "VE",
+  "name": "Venezuela, Bolivarian Republic of",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.706Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2892"
+  },
+  "code": "IO",
+  "name": "British Indian Ocean Territory",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.690Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b289d"
+  },
+  "code": "TD",
+  "name": "Chad",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.691Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28a1"
+  },
+  "code": "CC",
+  "name": "Cocos (Keeling) Islands",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.691Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28a7"
+  },
+  "code": "CR",
+  "name": "Costa Rica",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.692Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28b6"
+  },
+  "code": "ER",
+  "name": "Eritrea",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.693Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28b7"
+  },
+  "code": "EE",
+  "name": "Estonia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.693Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.623Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28c0"
+  },
+  "code": "TF",
+  "name": "French Southern Territories",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.694Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28c1"
+  },
+  "code": "GA",
+  "name": "Gabon",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.694Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28d0"
+  },
+  "code": "GY",
+  "name": "Guyana",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.696Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28f7"
+  },
+  "code": "MW",
+  "name": "Malawi",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.698Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.652Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28f8"
+  },
+  "code": "MY",
+  "name": "Malaysia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.698Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.652Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28fa"
+  },
+  "code": "ML",
+  "name": "Mali",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.698Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.652Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28fe"
+  },
+  "code": "MR",
+  "name": "Mauritania",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.698Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2900"
+  },
+  "code": "YT",
+  "name": "Mayotte",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.698Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b290a"
+  },
+  "code": "MM",
+  "name": "Myanmar",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.699Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2911"
+  },
+  "code": "NI",
+  "name": "Nicaragua",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.700Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.656Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2920"
+  },
+  "code": "PH",
+  "name": "Philippines",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.701Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.658Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b292e"
+  },
+  "code": "MF",
+  "name": "Saint Martin (French part)",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.702Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.660Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2938"
+  },
+  "code": "SL",
+  "name": "Sierra Leone",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.702Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.665Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b293c"
+  },
+  "code": "SI",
+  "name": "Slovenia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.703Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2953"
+  },
+  "code": "TT",
+  "name": "Trinidad and Tobago",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.705Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2955"
+  },
+  "code": "TR",
+  "name": "Turkey",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.705Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2969"
+  },
+  "code": "ZM",
+  "name": "Zambia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.707Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.670Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b288c"
+  },
+  "code": "BO",
+  "name": "Bolivia, Plurinational State of",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.690Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b288f"
+  },
+  "code": "BW",
+  "name": "Botswana",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.690Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2890"
+  },
+  "code": "BV",
+  "name": "Bouvet Island",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.690Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.615Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28a2"
+  },
+  "code": "CO",
+  "name": "Colombia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.692Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28a4"
+  },
+  "code": "CG",
+  "name": "Congo",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.692Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28a6"
+  },
+  "code": "CK",
+  "name": "Cook Islands",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.692Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.619Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28e9"
+  },
+  "code": "KW",
+  "name": "Kuwait",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.697Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.643Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2903"
+  },
+  "code": "MD",
+  "name": "Moldova, Republic of",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.698Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.654Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b290c"
+  },
+  "code": "NR",
+  "name": "Nauru",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.699Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2935"
+  },
+  "code": "SN",
+  "name": "Senegal",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.702Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.664Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2947"
+  },
+  "code": "SZ",
+  "name": "Swaziland",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.703Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.667Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2950"
+  },
+  "code": "TG",
+  "name": "Togo",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.705Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2874"
+  },
+  "code": "AL",
+  "name": "Albania",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.687Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2875"
+  },
+  "code": "DZ",
+  "name": "Algeria",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.687Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b287e"
+  },
+  "code": "AW",
+  "name": "Aruba",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.688Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.609Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2889"
+  },
+  "code": "BJ",
+  "name": "Benin",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.689Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2893"
+  },
+  "code": "BN",
+  "name": "Brunei Darussalam",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.690Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.616Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b289b"
+  },
+  "code": "KY",
+  "name": "Cayman Islands",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.690Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28bb"
+  },
+  "code": "FJ",
+  "name": "Fiji",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.694Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.624Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28bd"
+  },
+  "code": "FR",
+  "name": "France",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.694Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.624Z"
+  },
+  "__v": 0,
+  "vat": 10,
+  "deliverectAccountId": "62a9bdd241ba7957a48afc97"
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b28f6"
+  },
+  "code": "MG",
+  "name": "Madagascar",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.698Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.652Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b290d"
+  },
+  "code": "NP",
+  "name": "Nepal",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.699Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2921"
+  },
+  "code": "PN",
+  "name": "Pitcairn",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.701Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.658Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2928"
+  },
+  "code": "RU",
+  "name": "Russian Federation",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.701Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b292a"
+  },
+  "code": "BL",
+  "name": "Saint Barthélemy",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.701Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b292b"
+  },
+  "code": "SH",
+  "name": "Saint Helena, Ascension and Tristan da Cunha",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.702Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.659Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2936"
+  },
+  "code": "RS",
+  "name": "Serbia",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.702Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.664Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2940"
+  },
+  "code": "GS",
+  "name": "South Georgia and the South Sandwich Islands",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.703Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.666Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b295b"
+  },
+  "code": "AE",
+  "name": "United Arab Emirates",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.706Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b295f"
+  },
+  "code": "UY",
+  "name": "Uruguay",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.706Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.669Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6406f20496f03233811b2967"
+  },
+  "code": "EH",
+  "name": "Western Sahara",
+  "updatedAt": {
+    "$date": "2023-03-07T08:12:52.707Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-03-07T08:12:52.670Z"
+  },
+  "__v": 0
+}]

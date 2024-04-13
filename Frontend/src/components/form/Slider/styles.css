@@ -1,0 +1,17 @@
+input[type="range"] {
+  -webkit-appearance: none;
+  height: 4px;
+  background: #A5A5A5;
+  border-radius: 5px;
+  background-image: linear-gradient(theme('colors.primary'), theme('colors.primary'));
+  background-repeat: no-repeat;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background: theme('colors.primary');
+  cursor: pointer;
+}

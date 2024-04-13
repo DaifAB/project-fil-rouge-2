@@ -1,0 +1,82 @@
+[{
+  "_id": {
+    "$oid": "65d67922f58df35cfeeacdc3"
+  },
+  "name": "Brand Account",
+  "owner": {
+    "$oid": "65d67922f58df35cfeeacdc1"
+  },
+  "type": "brand",
+  "users": [
+    {
+      "$oid": "65d67922f58df35cfeeacdc1"
+    }
+  ],
+  "permissions": [
+    {
+      "userId": {
+        "$oid": "65d67922f58df35cfeeacdc1"
+      },
+      "items": [],
+      "permission": [
+        "branch_admin"
+      ]
+    }
+  ],
+  "concepts": [
+    {
+      "$oid": "65d726e9c6a15c6e21e47293"
+    }
+  ],
+  "branches": [],
+  "updatedAt": {
+    "$date": "2024-02-22T10:50:17.324Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-02-21T22:28:50.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d76b7a7bac1c64a1c4ed53"
+  },
+  "name": "Kitchen account",
+  "owner": {
+    "$oid": "65d76b7a7bac1c64a1c4ed51"
+  },
+  "type": "branch",
+  "users": [
+    {
+      "$oid": "65d76b7a7bac1c64a1c4ed51"
+    }
+  ],
+  "permissions": [
+    {
+      "userId": {
+        "$oid": "65d76b7a7bac1c64a1c4ed51"
+      },
+      "items": [],
+      "permission": [
+        "brand_admin"
+      ]
+    }
+  ],
+  "concepts": [],
+  "branches": [
+    {
+      "$oid": "65d89fb6ddb89be5b90643d4"
+    }
+  ],
+  "updatedAt": {
+    "$date": "2024-02-23T13:37:58.182Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-02-22T15:42:50.261Z"
+  },
+  "__v": 0
+}]

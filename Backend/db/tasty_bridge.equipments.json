@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "63b54285397f42d7729e09b1"
+  },
+  "name": "Deep fryer",
+  "deletedAt": null,
+  "description": "Deep fryer",
+  "createdAt": null,
+  "updatedAt": {
+    "$date": "2023-12-28T09:32:04.675Z"
+  },
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "63b54285397f42d7729e09b2"
+  },
+  "deletedAt": null,
+  "description": "Oven",
+  "name": "Oven",
+  "createdAt": null,
+  "updatedAt": {
+    "$date": "2023-12-28T09:33:11.234Z"
+  },
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "63b54285397f42d7729e09b3"
+  },
+  "description": "Hot plates",
+  "name": "Hot plates",
+  "deletedAt": null,
+  "createdAt": null,
+  "updatedAt": {
+    "$date": "2023-12-28T09:32:35.014Z"
+  },
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "63b54285397f42d7729e09b5"
+  },
+  "name": "Ventilation",
+  "description": "extraction / ventilation",
+  "deletedAt": null,
+  "createdAt": null,
+  "updatedAt": {
+    "$date": "2023-12-28T09:34:02.870Z"
+  },
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "63b54285397f42d7729e09b4"
+  },
+  "deletedAt": null,
+  "name": "Plancha",
+  "description": "Plancha",
+  "createdAt": null,
+  "updatedAt": {
+    "$date": "2023-12-28T09:33:28.767Z"
+  },
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "658d41363c48457f0349c38b"
+  },
+  "name": "Pizza Oven",
+  "description": "Pizza Oven",
+  "updatedAt": {
+    "$date": "2023-12-28T09:34:46.673Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-28T09:34:46.673Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658d41643c48457f0349c3e3"
+  },
+  "name": "Conveyor Belt",
+  "description": "Conveyor Belt",
+  "updatedAt": {
+    "$date": "2023-12-28T09:35:32.398Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-28T09:35:32.398Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658d41a73c48457f0349c433"
+  },
+  "name": "Grill or plancha",
+  "description": "Grill or plancha",
+  "updatedAt": {
+    "$date": "2023-12-28T09:36:39.419Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-28T09:36:39.419Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658d41d43c48457f0349c4ba"
+  },
+  "name": "Microwave",
+  "description": "Microwave",
+  "category": null,
+  "updatedAt": {
+    "$date": "2023-12-28T09:37:24.658Z"
+  },
+  "deletedAt": null,
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2023-12-28T09:37:24.658Z"
+  },
+  "__v": 0
+}]

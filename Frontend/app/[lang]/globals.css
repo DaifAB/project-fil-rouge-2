@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import 'mapbox-gl/dist/mapbox-gl.css'; 
+
+
+::-webkit-scrollbar {
+    width: 7px;
+    height: 7px;
+}
+  
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+  
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 5px;
+}
+  
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+.mapboxgl-ctrl-bottom-right {
+    display: none !important;
+}
+
+@layer components {
+    .h1 {
+        @apply text-[34px] font-medium font-mono;
+    }
+
+    .h2 {
+        @apply text-[26px] font-bold font-mono;
+    }
+
+    .h3 {
+        @apply text-[22px] font-bold font-mono;
+    }
+
+    .h4 {
+        @apply text-[18px] font-bold font-mono;
+    }
+
+    .h5 {
+        @apply text-[16px] font-bold font-mono;
+    }
+
+    .t1 {
+        @apply  text-[16px] text-secondary font-sans;
+    }
+
+    .t2 {
+        @apply  text-[14px] text-secondary font-sans;
+    }
+
+    .t3 {
+        @apply  text-[12px] text-secondary font-sans;
+    }
+
+    .t4 {
+        @apply  text-[10px] text-secondary font-sans;
+    }
+
+    .t5 {
+        @apply  text-[8px] text-secondary font-sans;
+    }
+
+    .t6 {
+        @apply  text-[6px] text-secondary font-sans;
+    }
+}
+
+.mapboxgl-ctrl-bottom-left {
+    display: none !important;
+}
+
+.branch-popup {
+    min-width: 300px;
+}
+

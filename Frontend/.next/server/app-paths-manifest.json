@@ -1,0 +1,9 @@
+{
+  "/api/auth/route": "app/api/auth/route.js",
+  "/api/login/route": "app/api/login/route.js",
+  "/api/logout/route": "app/api/logout/route.js",
+  "/[lang]/page": "app/[lang]/page.js",
+  "/[lang]/(form-layout)/sign-up/[accountType]/page": "app/[lang]/(form-layout)/sign-up/[accountType]/page.js",
+  "/[lang]/marketplace/branch/home/page": "app/[lang]/marketplace/branch/home/page.js",
+  "/[lang]/(form-layout)/sign-in/page": "app/[lang]/(form-layout)/sign-in/page.js"
+}
